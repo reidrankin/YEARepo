@@ -80,9 +80,9 @@ module YEA
       
     # This adjusts the formula for CEV. CEV is the critical evasion rate.
     # This provided formula uses a shifted percentage of LUK and AGI as a
-    # bonus contributing factor to increasing the user's CRI. If you do not
+    # bonus contributing factor to increasing the user's CEV. If you do not
     # wish to use this formula, change it to "base_cev" to have it use
-    # whatever the original CRI rate is.
+    # whatever the original CEV rate is.
       :cev_n_value => "agi * 0.75 + luk * 0.25",
       :cev_formula => "(n / (512.0 + n)) * 0.167 + 0.000 + base_cev",
       
