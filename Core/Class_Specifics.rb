@@ -1,6 +1,6 @@
 ﻿#==============================================================================
 # 
-# ▼ Yanfly Engine Ace - Class Specifics v1.00
+# ▼ Yanfly Engine Ace - Class System Add-On: Class Specifics v1.00
 # -- Last Updated: 2011.12.23
 # -- Level: Normal
 # -- Requires: YEA - Class System v1.03+
