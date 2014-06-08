@@ -153,7 +153,7 @@ module YEA
     #    Height      416       480           13                 15
     # 
     # * Note: Maximum width is 640 while maximum height is 480.
-    #         Minimum width is 110 while maximum height is 10.
+    #         Minimum width is 110 while minimum height is 10.
     #         These are limitations set by RPG Maker VX Ace's engine.
     # 
     # By selecting resize, all of the default menus will have their windows
